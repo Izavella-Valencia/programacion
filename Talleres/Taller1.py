@@ -27,6 +27,8 @@ isIgualNumero = numeroA != numeroB
 print (isIgualNumero)
 isMenornumero = numeroA < numeroB
 print (isMenornumero)
+isMayorNumeroB = numeroB == numeroA
+print (isMayorNumeroB)
 #comparando números 
 print ("#"*15, "comparando números", "#"*15)
 numeroA = 26
