@@ -58,7 +58,7 @@ for indice in range (largoListaNombres):
 posicionesConValorPar = []
 largoListaEdades = len (edades)
 for posicion in range (largoListaEdades):
-    if (edades [ppsicion]%2 == 0):
+    if (edades [posicion]%2 == 0):
         posicionesConValorPar.append (posicion)
 
 print (edades)
